@@ -1,6 +1,6 @@
 ###    Eai, eu sou Pedro Ujj, estudante de TI e com o sonho de trabalhar como FRONT-END 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujj.pedro&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjpedro&show_icons=true&theme=chartreuse-dark)
 
 ## Eu geralmente uso 
 <div style="display: inline_block"></br>
@@ -11,4 +11,4 @@
 </div></br>
 
 ## Mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujj.pedro&layout=compact)](https://github.com/ujj.pedro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjpedro&layout=compact)](https://github.com/ujjpedro/github-readme-stats)
